@@ -4,7 +4,7 @@ pass
 
 def subtract(x,y):
     *** Subtract ***
-    return x-y
+    pass
 
 def multiply(x,y):
     *** Multiply ***
